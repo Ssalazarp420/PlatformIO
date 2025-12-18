@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../Sensor_VL53L0X"
+		},
+		{
+			"name": "Control_bomba_agua",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
